@@ -1,0 +1,5 @@
+name: KitPvPExtension
+main: me.alphagladiator.kpe.Main
+version: 1.0.0.0
+author: AlphaGladiator
+description: A plugin for MCKarlo that clears the players inventory on death and opens /kit on respawn.
